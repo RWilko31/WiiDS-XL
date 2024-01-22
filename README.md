@@ -6,13 +6,13 @@ This project is a work in progress.
 
 This project aims to take a Nintendo Wii motherboard and fit it in a DS formfactor along with the necessary parts to create a full portable.
 
-Goals:
+**Goals:**
 - Use a real DS shell (currently 3DS XL) although modification is allowed
 - use the standard Wii trim to minimise difficulty
 - Have a battery life of at least 2 hours
 - USBC fast charging
 
-Desirables:
+**Desirables:**
 - have the device be dockable to allow connecting to a TV, ability to use GC controllers/memorycards
 - Keep wifi and bluetooth in the portable
 - add the disk drive to the dock to allow disk games to work
@@ -24,7 +24,7 @@ Wii trim guide - https://bitbuilt.net/forums/index.php?threads/the-definitive-wi
 
 Although smaller trims are possible, they are much more involved as they require relocation of the memory and video ICs.
 
-Power supply:
+**Power supply:**
 Power guide - https://bitbuilt.net/forums/index.php?threads/custom-regulators-an-explanation-and-guide.754/ 
 
 Power requirements: 3v3 at 0.66A, 1v15 at 1.8A, 1v at 1.53A
@@ -33,7 +33,7 @@ additional: 5V for usb/GC rumble, 1v8 (Reg still on board when trimmed)
 To power the wii at least 3 regulators will be required to supply 3v3, 1v15 and 1v. The trimmed wii will maintain the 1v8 LDO regulator which draws from the 3v3 supplied. 
 Since the DS will not have a USB port the 5v can be removed and supplied by the dock instead.
 
-Battery and battery management:
+**Battery and battery management:**
 
 A portablised wii is estimated to draw around 10W
 https://bitbuilt.net/forums/index.php?threads/wii-portable-total-power-draw-mah.2368/#:~:text=A%20basic%20Wii%20portable%20with,about%2010%20watts%20of%20power.
