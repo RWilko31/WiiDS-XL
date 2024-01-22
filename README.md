@@ -17,7 +17,7 @@ Desirables:
 - Keep wifi and bluetooth in the portable
 - add the disk drive to the dock to allow disk games to work
   
-Current progress:
+# Current progress:
 
 Many wii portables have been made before, and so the process is very well documented with a full guide being available to show the steps needed to make it work:
 Wii trim guide - https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-trimming-guide.198/ 
