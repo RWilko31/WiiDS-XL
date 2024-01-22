@@ -27,7 +27,7 @@ Although smaller trims are possible, they are much more involved as they require
 Power supply:
 Power guide - https://bitbuilt.net/forums/index.php?threads/custom-regulators-an-explanation-and-guide.754/ 
 
-Power requirements: 3v3@0.66A, 1v15@1.8A, 1v@1.53A
+Power requirements: 3v3 @ 0.66A, 1v15 @ 1.8A, 1v @ 1.53A
 additional: 5V for usb/GC rumble, 1v8 (Reg still on board when trimmed)
 
 To power the wii at least 3 regulators will be required to supply 3v3, 1v15 and 1v. The trimmed wii will maintain the 1v8 LDO regulator which draws from the 3v3 supplied. 
