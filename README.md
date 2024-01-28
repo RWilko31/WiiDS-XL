@@ -77,6 +77,7 @@ https://www.hynetek.com/uploadfiles/site/219/news/aabbbbdb-48c9-4a44-a6dc-2c15f5
 This IC has a simple schematic and is capable of requesting any usbc voltage and current via resistors to set its values.
 
 **Screen:**
+
 For the screen, the plan is to use a 5inch HDMI LCD screen as these are the cheapest option close to the size of the original 3DS screen.
 Although the screen has not yet been chosen, the power draw has been estimated from a similar HDMI TFT screen.
 This screen can be run from 3.3v by bypassing the 3v3 regulator, and draws 200mA with a hdmi input connected.
